@@ -30,7 +30,7 @@ python processing_pipeline/attack.py
 
 ### data
 
-- input.json：Original behavior files（from https://github.com/AISG-Technology-Team/GCSS-Track-1A-Submission-Guide/blob/master/20240612-behaviors.json）
+- input.json：Original behavior files (from https://github.com/AISG-Technology-Team/GCSS-Track-1A-Submission-Guide/blob/master/20240612-behaviors.json)
 - suffix_lists.json：successful attack suffix list from input.json
 - output.json：save the results
 
